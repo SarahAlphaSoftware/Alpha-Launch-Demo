@@ -8,3 +8,7 @@ componentTypeCache
 __staging.staging/
 __a5docgen/
 __liveTestSettings.json
+project.settings
+ProjectProperties.projectProperties
+Project.SecuritySettings
+*.tmp
