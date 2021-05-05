@@ -1,0 +1,36 @@
+{
+	"sass": ".tabbandPrimarySelected {\r\n    background-color: $accentColor;\r\n\tcolor: white;\r\n}",
+	"variables": [],
+	"js": "A5.themes.add('Alpha',{tabBand: {primary: {className: 'tabband',separator: {className: ''},tab: {className: 'tabbandTab',selectedClassName: 'tabbandTabSelected tabbandPrimarySelected',disabledClassName: 'tabbandTabDisabled',closeClassName: '',closeIcon: 'svgIcon=#alpha-icon-x:icon iconButton',closeHoverIcon: 'svgIcon=#alpha-icon-xCircle:icon iconButton iconDeny',closeIconStyle: ''},scrollButtons: {overlay: false,fullHeight: true,prevClassName: 'tabbandButton',prevDisabledClassName: 'tabbandButtonDisabled',prevImage: 'svgIcon=#alpha-icon-chevronLeft:icon',prevDisabledImage: 'svgIcon=#alpha-icon-chevronLeft:icon',nextClassName: 'tabbandButton',nextDisabledClassName: 'tabbandButtonDisabled',nextImage: 'svgIcon=#alpha-icon-chevronRight:icon',nextDisabledImage: 'svgIcon=#alpha-icon-chevronRight:icon'}}}});",
+	"subthemes": {
+		"tabBand": {
+			"primary": {
+				"className": "tabband",
+				"separator": {
+					"className": ""
+				},
+				"tab": {
+					"className": "tabbandTab",
+					"selectedClassName": "tabbandTabSelected tabbandPrimarySelected",
+					"disabledClassName": "tabbandTabDisabled",
+					"closeClassName": "",
+					"closeIcon": "svgIcon=#alpha-icon-x:icon iconButton",
+					"closeHoverIcon": "svgIcon=#alpha-icon-xCircle:icon iconButton iconDeny",
+					"closeIconStyle": ""
+				},
+				"scrollButtons": {
+					"overlay": false,
+					"fullHeight": true,
+					"prevClassName": "tabbandButton",
+					"prevDisabledClassName": "tabbandButtonDisabled",
+					"prevImage": "svgIcon=#alpha-icon-chevronLeft:icon",
+					"prevDisabledImage": "svgIcon=#alpha-icon-chevronLeft:icon",
+					"nextClassName": "tabbandButton",
+					"nextDisabledClassName": "tabbandButtonDisabled",
+					"nextImage": "svgIcon=#alpha-icon-chevronRight:icon",
+					"nextDisabledImage": "svgIcon=#alpha-icon-chevronRight:icon"
+				}
+			}
+		}
+	}
+}
