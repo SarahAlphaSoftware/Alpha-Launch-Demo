@@ -25,7 +25,14 @@ A README.md:
 
 ## Try it out!
 
-[Following these instructions](http://alpha-shell-qrcode.s3.amazonaws.com/alphalaunch/AlphaLaunch_6077b1e193cb4262a6e71be9b5d0816d.html) to install the apps in this repository in Alpha Launch.
+1. Install Alpha Launch from the Apple App Store or Google Play
+
+| iOS    | Android |
+| :----: | :----: |
+| ![AlphaLaunchiOS](https://user-images.githubusercontent.com/17854599/117452843-3d70b200-af12-11eb-9a22-768b877f6000.png) | ![AlphaLaunchAndroid](https://user-images.githubusercontent.com/17854599/117452872-46618380-af12-11eb-9a5c-6e49b4ac3edd.png) |
+
+
+2. [Following these instructions](http://alpha-shell-qrcode.s3.amazonaws.com/alphalaunch/AlphaLaunch_6077b1e193cb4262a6e71be9b5d0816d.html) to install the apps in this repository in Alpha Launch.
 
 ![image](https://user-images.githubusercontent.com/17854599/117205047-15246e80-adbf-11eb-8a67-92c946ac1b23.png)
 
